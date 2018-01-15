@@ -54,7 +54,6 @@ a:visited {
 li.media-pane {
   margin-bottom: 2em;
   background-color: hsl(35, 10%, 97%);
-  box-shadow: 4px 4px hsla(30, 30%, 30%, 0.3);
   padding-left: 1.2em;
   padding-right: 1.2em;
   padding-top: 1.2em;
@@ -80,7 +79,6 @@ li.media-pane {
 
 .media-pane video,img {
   border-left: 1px solid hsla(30, 14%, 67%, 0.5);
-  box-shadow: 2px 2px hsla(30, 5%, 0%, 0.3);
   width: 100%;
 }
 
