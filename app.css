@@ -20,7 +20,6 @@ section {
   align-items: center;
 }
 
-
 ul {
   list-style-type: none;
   padding-left: 0;
@@ -61,10 +60,7 @@ li.media-pane {
   padding-top: 1.2em;
   padding-bottom: 1.2em;
   margin-bottom: 2em;
-
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  text-align: center;
 }
 
 .media-meta {
