@@ -82,7 +82,11 @@ li.pane {
   width: 100%;
 }
 
-@media all and (max-width: 320px) {
+@media all and (max-width: 414px) {
+  body {
+    font-size: 12px;
+  }
+  
   .name {
     font-size: 1em;
   }
